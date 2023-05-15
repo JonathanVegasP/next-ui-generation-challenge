@@ -1,7 +1,8 @@
 {
     "name": "next_gen_ui",
     "short_name": "next_gen_ui",
-    "start_url": ".",
+    "start_url": "/next-ui-generation-challenge/",
+    "scope": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
